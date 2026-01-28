@@ -13,4 +13,5 @@ Criei esse projeto para **praticar lógica de programação** e treinar conceito
 - Impede jogadas inválidas
 - Verifica quem ganhou
 - Detecta empate
-- Tudo acontece pelo terminal, de forma simples
+- biblioteca usada tkinter( cria interface simples) 
+
